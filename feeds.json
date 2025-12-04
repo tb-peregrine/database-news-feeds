@@ -104,5 +104,9 @@
     "filter_tags": [
       "Database"
     ]
+  },
+  {
+    "title": "turbopuffer blog",
+    "url": "https://turbopuffer.com/blog/rss.xml"
   }
 ]
